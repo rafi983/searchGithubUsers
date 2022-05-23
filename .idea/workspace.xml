@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c604c7cc-be36-4117-8d26-e018a063d29d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/context.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/mockData.js/mockFollowers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/mockData.js/mockFollowers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/mockData.js/mockRepos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/mockData.js/mockRepos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/mockData.js/mockUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/mockData.js/mockUser.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <workItem from="1653044353261" duration="31000" />
       <workItem from="1653044406154" duration="378000" />
       <workItem from="1653126646207" duration="11633000" />
-      <workItem from="1653314053819" duration="1178000" />
+      <workItem from="1653314053819" duration="1831000" />
     </task>
     <servers />
   </component>
